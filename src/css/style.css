@@ -1,0 +1,14 @@
+body{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+.row{
+    text-align: center;
+    font-weight: 200;
+}
+

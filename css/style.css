@@ -1,0 +1,30 @@
+/*******************************/
+/********* General CSS *********/
+/*******************************/
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    background-color: aquamarine;
+}
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+body{
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: left;
+    color: blue;
+}
+.row{
+    text-align: center;
+    font-weight: 200;
+}
+
